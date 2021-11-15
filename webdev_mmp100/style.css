@@ -21,7 +21,15 @@ p {
   }  
   .center {
     display: block;
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
+    width: 75%;
+  }
+  button {
+    background-color: rgb(86, 26, 116);
+    font-size: 24px;
+    border: none; 
+    color: white;
+    border-radius: 75px;
   }
