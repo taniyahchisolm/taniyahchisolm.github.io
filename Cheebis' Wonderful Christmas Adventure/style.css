@@ -1,0 +1,60 @@
+body {
+    background-color: green
+  }
+  h1 {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 65px;
+    text-decoration: underline;
+  }
+p {
+    font-family: "Arial", "Courier New", monospace;
+    font-weight: bold;
+    color: white;
+  }  
+  p2 {
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: italic;
+    color: rgb(244, 253, 226);
+  }  
+  
+  .center {
+    margin-left: auto;
+    margin-right: 3%;
+    width: 75%;
+    z-index: index 2;
+  }
+
+  button {
+    background-color: red;
+    font-size: 24px;
+    border: none; 
+    color: white;
+    border-radius: 75px;
+  }
+  #a{
+    
+    position:absolute; 
+    bottom: 10%; 
+    left: 40%
+  }
+  #b{
+    position:absolute; 
+    bottom: 18%; 
+    left: 25%
+  }
+
+  #c{
+    position:absolute; 
+    bottom: 18%; 
+    left: 20%
+  }
+
+  #d{
+    
+    position:absolute; 
+    bottom: 10%; 
+    left: 55%
+  }
